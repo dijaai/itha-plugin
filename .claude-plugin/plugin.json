@@ -3,8 +3,19 @@
   "displayName": "Itha",
   "version": "0.1.0",
   "description": "Find and compare industrial B2B suppliers. Search Itha's registry of structured seller cards by what you need, see what each seller states and does not state, and trace each fact to its source.",
-  "author": { "name": "Itha", "url": "https://itha.ai" },
+  "author": {
+    "name": "Itha",
+    "url": "https://itha.ai"
+  },
   "homepage": "https://itha.ai/for-agents",
+  "privacyPolicyUrl": "https://itha.ai/legal/privacy",
   "license": "MIT",
-  "keywords": ["b2b", "sourcing", "procurement", "robotics", "industrial", "vendors"]
+  "keywords": [
+    "b2b",
+    "sourcing",
+    "procurement",
+    "robotics",
+    "industrial",
+    "vendors"
+  ]
 }
