@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "itha": {
+      "type": "http",
+      "url": "https://mcp.itha.ai/mcp"
+    }
+  }
+}
